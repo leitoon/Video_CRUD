@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "76293774965",
+    "project_id": "video-f5b37",
+    "storage_bucket": "video-f5b37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76293774965:android:a4a73eed3f4907f790623c",
+        "android_client_info": {
+          "package_name": "com.example.prueba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Qd5kI8b-GM8GpffnZCtOwjZolFTTEWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
