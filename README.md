@@ -7,15 +7,15 @@ Video Manager is a Flutter application designed to manage video recordings, uplo
 
 Before running this application, ensure you have the following:
 
-Flutter SDK installed
-Firebase project set up with Firestore and Storage enabled
-Necessary Flutter packages installed (listed below)
+1. Flutter SDK installed
+2. Firebase project set up with Firestore and Storage enabled
+3. Necessary Flutter packages installed (listed below)
 
 ## Project Structure
-main.dart: Initializes the Firebase app and runs the MyApp widget.
-home.dart: Contains the Home widget, which displays a list of uploaded videos and provides an interface to navigate to the CreateVideoScreen.
-creare.dart: Contains the CreateVideoScreen widget, which allows users to record videos, pick videos from the gallery, and upload them to Firebase.
-videoplayer.dart: Contains the VideoPlayerScreen widget, which plays the selected video.
+1. main.dart: Initializes the Firebase app and runs the MyApp widget.
+2. home.dart: Contains the Home widget, which displays a list of uploaded videos and provides an interface to navigate to the CreateVideoScreen.
+3. creare.dart: Contains the CreateVideoScreen widget, which allows users to record videos, pick videos from the gallery, and upload them to Firebase.
+4. videoplayer.dart: Contains the VideoPlayerScreen widget, which plays the selected video.
 
 ## How to Run
 Clone the repository:
@@ -29,11 +29,11 @@ Install the dependencies:
 flutter run
 
 ## Features
-Record videos using the camera
-Pick videos from the gallery
-Upload videos to Firebase Storage
-Display uploaded videos from Firestore
-Delete videos from Firestore and Firebase Storage
+1. Record videos using the camera
+2. Pick videos from the gallery
+3. Upload videos to Firebase Storage
+4. Display uploaded videos from Firestore
+5. Delete videos from Firestore and Firebase Storage
 
 ## VIDEO
 https://drive.google.com/file/d/1KKcRI-WPtzKvPRLaWODs4mndrLOLa4Mm/view?usp=sharing
